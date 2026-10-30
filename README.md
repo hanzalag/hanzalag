@@ -1,5 +1,8 @@
-## Muhammad Hanzala
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Muhammad%Hanzala&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%&descAlignY=58&descSize=19&descColor=60a5fa"/>
 
+## Muhammad Hanzala
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanzalag&show_icons=true&no-frame=true"/><p align="left">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanzalag&label=Profile%20views&color=0e75b6&style=flat"/></p>
 <!--
 **hanzalag/hanzalag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
